@@ -1,0 +1,21 @@
+.idea
+**/__pycache__/
+*.log*
+*.zip
+
+src/seven_pulse2018/
+src/test_package/
+src/feature_result/
+src/checkpoint/
+src/model/
+src/utils/processing_matlab/
+
+docs/reference_paper/
+
+# 毕设相关材料不上传
+毕设答辩/
+毕设过程材料/
+靶器官问诊+脉诊_2021大创项目/
+语音识别与应用_笔记/
+基于多特征融合的中医脉象分类研究_1819660230荀镕基.docx
+基于多特征融合的中医脉象分类研究_1819660230荀镕基.pdf
